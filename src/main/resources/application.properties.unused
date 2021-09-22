@@ -1,0 +1,4 @@
+spring.profiles.active=cat,EN,dev
+com.username=thogarbe
+com.password=dbPassword
+com.jdbcurl=someURLForTheDatabase

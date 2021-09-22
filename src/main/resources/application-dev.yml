@@ -1,0 +1,4 @@
+com:
+  username: devUsername
+  password: devPwd
+  jdbcurl: devDB

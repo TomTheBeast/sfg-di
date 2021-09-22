@@ -1,0 +1,3 @@
+com.username=qaUser
+com.password=qaPwd
+com.jdbcurl=qaDBURL

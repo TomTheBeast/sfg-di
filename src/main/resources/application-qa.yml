@@ -1,0 +1,4 @@
+com:
+  username: qaUser
+  password: qaPwd
+  jdbcurl: qaDB
